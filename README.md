@@ -1,2 +1,4 @@
 # siteBelissimaBoot
-Site da Loja Belíssima Art&amp;Decor desenvolvido com Bootstrap.
+Site da Loja Belíssima Art&Decor.
+
+Desenvolvido com Bootstrap e SASS.
